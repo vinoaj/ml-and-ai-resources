@@ -13,4 +13,5 @@
 
 ## Learning Resources
 - [DAIR.AI's list of ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+- [e2eml.school](https://e2eml.school/blog.html)
 - [DAIR.AI's list of free courses and samples](https://github.com/dair-ai)
