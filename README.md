@@ -7,6 +7,12 @@
 - [Comprehensive list](https://github.com/EthicalML/awesome-production-machine-learning/blob/master/README.md) of open-source MLOps resources
 - [How We Built Infrastructure to Run User Forecasts at Spotify](https://engineering.atspotify.com/2022/06/how-we-built-infrastructure-to-run-user-forecasts-at-spotify/)
 
+## Problem Domains
+
+### Anomaly Detection
+
+- [ADBench](https://github.com/Minqi824/ADBench#datasets): anomaly detection model benchmark
+
 ## Privacy
 - [PipelineDP](https://github.com/OpenMined/PipelineDP): PipelineDP is a Python framework for applying differentially private aggregations to large datasets using batch processing systems such as Apache Spark, Apache Beam, and more. Developed by [OpenMined](https://www.openmined.org/) and Google
 
