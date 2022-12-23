@@ -13,6 +13,10 @@
 
 - [ADBench](https://github.com/Minqi824/ADBench#datasets): anomaly detection model benchmark
 
+### Forecasting
+
+- [Nixtla: Open Source Time Series Forecasting libraries](https://github.com/Nixtla)
+
 ## Privacy
 - [PipelineDP](https://github.com/OpenMined/PipelineDP): PipelineDP is a Python framework for applying differentially private aggregations to large datasets using batch processing systems such as Apache Spark, Apache Beam, and more. Developed by [OpenMined](https://www.openmined.org/) and Google
 
