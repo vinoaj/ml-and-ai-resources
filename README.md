@@ -4,6 +4,10 @@
 - [Stanford University AI Index Report (2022)](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf)
 - [Kaggle's State of Data Science and Machine Learning 2022](https://www.kaggle.com/kaggle-survey-2022)
 
+## Comparisons & Benchmarks
+
+- [AI Infrastructure Alliance Landscape comparison](https://ai-infrastructure.org/ai-infrastructure-landscape/)
+
 ## MLOps
 - [Comprehensive list](https://github.com/EthicalML/awesome-production-machine-learning/blob/master/README.md) of open-source MLOps resources
 - [How We Built Infrastructure to Run User Forecasts at Spotify](https://engineering.atspotify.com/2022/06/how-we-built-infrastructure-to-run-user-forecasts-at-spotify/)
