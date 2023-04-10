@@ -1,7 +1,7 @@
 # ml-and-ai-resources
 
 ## Trends
-- [Stanford University AI Index Report (2022)](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf)
+- [Stanford University AI Index Report (2023)](https://aiindex.stanford.edu/report/?sf176386094=1) | [(2022)](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf)
 - [Kaggle's State of Data Science and Machine Learning 2022](https://www.kaggle.com/kaggle-survey-2022)
 
 ## Comparisons & Benchmarks
