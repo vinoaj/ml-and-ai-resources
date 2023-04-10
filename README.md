@@ -12,6 +12,10 @@
 - [Comprehensive list](https://github.com/EthicalML/awesome-production-machine-learning/blob/master/README.md) of open-source MLOps resources
 - [How We Built Infrastructure to Run User Forecasts at Spotify](https://engineering.atspotify.com/2022/06/how-we-built-infrastructure-to-run-user-forecasts-at-spotify/)
 
+## LLMs / Generative AI
+
+- [Prompting Guide](https://www.promptingguide.ai/)
+
 ## Problem Domains
 
 ### Anomaly Detection
